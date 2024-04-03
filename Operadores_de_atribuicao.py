@@ -1,3 +1,5 @@
+# São utilizados para definir um valor inicial ou subscrever um valor de uma variável
+
 saldo = 500
 print(saldo)
 

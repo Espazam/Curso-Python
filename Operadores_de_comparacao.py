@@ -1,3 +1,5 @@
+# São operadores utilizados para comparar dois valores.
+
 saldo = 3000
 saque = 5000
 

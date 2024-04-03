@@ -1,3 +1,5 @@
+# Os operadores aritméticos executam operações matemáticas como adição, subtração e multiplicação. 
+
 produto_1 = 20
 produto_2 = 10
 
