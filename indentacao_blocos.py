@@ -5,7 +5,7 @@ def sacar(valor):
         print("valor sacado!")
         print("Retire o seu dinheiro no caixa.")
     
-    if saldo < valor:
+    else:
         print("Saldo Insuficiente")
 
     print("Obrigado por ser nosso cliente, tenha um bom dia!")
