@@ -6,6 +6,7 @@ saldo = 2000
 saque = 1000
 cheque_especial = 450
 
+
 if conta_normal:
     if saldo >= saque:
         print("Saque realizado com sucesso!")
