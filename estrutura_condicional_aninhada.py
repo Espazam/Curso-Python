@@ -1,5 +1,6 @@
 conta_normal = False
-conta_universitaria = True
+conta_universitaria = False
+conta_especial = True
 
 saldo = 2000
 saque = 1000
@@ -18,3 +19,9 @@ elif conta_universitaria:
         print("Saque realizado com sucesso!")
     else:
         print("Saldo insuficiente!")
+
+elif conta_especial:
+    print("Conta Especial Selecionada!")
+
+else:
+    print("Conta inexiste, crie sua conta no link a seguir.")
