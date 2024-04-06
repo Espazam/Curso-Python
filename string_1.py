@@ -1,5 +1,6 @@
-nome = "WeSlEy"
+# Métodos Úteis da Classe String.
 
+nome = "WeSlEy"
 
 print(nome.upper())
 print(nome.lower())
